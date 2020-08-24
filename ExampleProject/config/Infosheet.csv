@@ -1,20 +1,20 @@
 Attribute,Value
 Type,http://purl.org/dc/dcmitype/Dataset
-Title,An Example Project
-Alternative Title,Example
+Title,Teste para Ontologia Dissertação
+Alternative Title, Teste Marcela Pires
 Comment,"This is an example knowledge graph fragment created using the SDD approach."
 Description,"Annotated data from an example project was used to demonstrate the SDD functionality"
-Date Created,2019-03-03
-Creators,
+Date Created,2020-08-23
+Creators, Marcela Pires Estevanovic
 Contributors,
 Publisher,
 Date of Issue,2019-03-03
 Link,
-Identifier,example-project-1.0
-Keywords,
-License,MIT Licence
-Rights,Rights Reserved
-Language,English
+Identifier,example-marcela-1.0
+Keywords, Legislativo, convênios de saída, ontologia
+License, ?
+Rights, ?
+Language, PT-BR
 Version,1.0
 Version Of,
 Previous Version,
